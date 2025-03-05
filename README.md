@@ -16,7 +16,7 @@ O Site foi desenvolvido para realizacao de um projeto do curso de introducao a p
 - `Funcionalidade 4:` O sistema lê e reproduz em audio o conteudo da página para requisitos de acessibilidade;
 
 # Acesso ao projeto 📁
-Você pode acessar o projeto apartir do link: https://jogo-de-adivinhacao-kvhm4whnd-vgsantanas-projects.vercel.app/
+Você pode acessar o projeto a partir do link: https://jogo-de-adivinhacao-kvhm4whnd-vgsantanas-projects.vercel.app/
 
 # Tecnologias utilizadas 🖥️
 - `JavaScript`
